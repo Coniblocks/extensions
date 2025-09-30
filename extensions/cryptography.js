@@ -1,6 +1,6 @@
 // Name: Cryptography
 // ID: cryptography
-// Description: More advanced math.
+// Description: UUID's and encryption.
 // License: GPLV3
 
 (function(Scratch) {
