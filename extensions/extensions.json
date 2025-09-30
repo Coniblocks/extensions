@@ -101,5 +101,6 @@
   "Lily/McUtils" // McUtils should always be the last item.
   */
   "cryptography",
+  "randomizers",
   "mathematics"
 ]
