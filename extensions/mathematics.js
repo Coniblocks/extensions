@@ -1,3 +1,9 @@
+// Name: Mathematics
+// ID: mathematics
+// Description: More advanced math.
+// Original: coniblocks
+// License: GPLV3
+
 (function(Scratch) {
   'use strict';
 
